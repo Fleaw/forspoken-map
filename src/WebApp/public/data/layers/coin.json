@@ -1,0 +1,845 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 1",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28103.51,
+          23716.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 2",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28103.53,
+          23716.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 3",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28103.49,
+          23716.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 4",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26729.05,
+          23605.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 5",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26628.23,
+          23644.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 6",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26684.69,
+          23581.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 7",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26581.04,
+          23625.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 8",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26490.8,
+          23516.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 9",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26868.37,
+          23526.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 10",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26971.76,
+          23549.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 11",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26794.5,
+          23498.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 12",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26788.2,
+          23495.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 13",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26684.34,
+          23414.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 14",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26714.21,
+          23510.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 15",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26819.11,
+          23630.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 16",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27412.39,
+          23284.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 17",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27098.31,
+          23965.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 18",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26871.18,
+          23948.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 19",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26475.83,
+          23504.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 20",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26475.9,
+          23504.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 21",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28211.21,
+          26998.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 22",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27665.65,
+          26625.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 23",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28861.6,
+          26967.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 24",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28851.77,
+          28055.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 25",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28681.93,
+          28361.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 26",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28973.5,
+          28346.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 27",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29128.53,
+          28304.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 28",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28989.17,
+          27928.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 29",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29119.7,
+          25289.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 30",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28690.67,
+          26012.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 31",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24834.73,
+          27246.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 32",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24773.33,
+          27667.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 33",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24845.02,
+          27870.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 34",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27114.61,
+          29458.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 35",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27114.68,
+          29458.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 36",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27114.64,
+          29458.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 37",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24794.27,
+          24410.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 38",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25209.75,
+          28205.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 39",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25500.79,
+          28168.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 40",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25628.12,
+          28613.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 41",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20322.02,
+          25039.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 42",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20351.87,
+          25100.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 43",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20535.32,
+          25179.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 44",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20535.23,
+          25179.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 45",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20535.23,
+          25179.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 46",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20647.86,
+          25019.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 47",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20287.26,
+          25295.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 48",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20519.08,
+          25159.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 49",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20537.97,
+          25176.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 50",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21950.67,
+          27509.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 51",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25724.91,
+          23246.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 52",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25209.66,
+          22809.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 53",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25182.73,
+          22842.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 54",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25157.19,
+          22801.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 55",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25116.8,
+          22695.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 56",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24781.19,
+          22529.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 57",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25363.4,
+          22767.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 58",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25440.73,
+          23036.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 59",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25445.35,
+          23133.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old coin 60",
+        "type": "coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25616.37,
+          22869.8
+        ]
+      }
+    }
+  ]
+}

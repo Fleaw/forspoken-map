@@ -1,0 +1,493 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vule Cavern",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Dilys Goldenvoice: Part One"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28111.14,
+          24368.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brass Cavern",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Dauntless"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29507.25,
+          24945.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hilltop Grotto",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29953.52,
+          27070.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middle Praenost Hollow",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27489.1,
+          26329.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vivus Cave",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27559.56,
+          26684.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocky Cavern",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30411.72,
+          28644.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Searor Cavern",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Battle for Avaolet"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26808.55,
+          28120.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mossy Cave",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24829.24,
+          24672.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plateau Hollow",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "nail",
+            "id": "Grit"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24005.16,
+          23803.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Cave",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22282.18,
+          22039.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bear's Den",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22946.05,
+          23555.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hidden Hollow",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21561.53,
+          25260.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redclaw Cavern",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Boundless"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22213.22,
+          25836.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lost Sheep Grotto",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22763.14,
+          26211.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wayfarer's Cave",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26284.34,
+          23066.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Precipice Cavern",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29825.03,
+          28540.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laylow Hollow",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Meowsipurr's Apprentice: Part Three"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27946.26,
+          28371.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foothill Cave",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Junoon: The Good Old Days"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23645.22,
+          21576.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deep Peak Cavern",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24884,
+          21115.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derbent Cave",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25190.56,
+          24152.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cliffedge Cavern",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Boy's Diary: The Corruption Spreads"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24862.75,
+          25308.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rampart Hollow",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20314.81,
+          25492.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zil Cavern",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19825.94,
+          26366.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rockshade Cave",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Two Little Shepherds: Part Two"
+          },
+          {
+            "kind": "archive",
+            "id": "Avoalet's Refugees"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23355.52,
+          26967.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mountain Grotto",
+        "type": "cave",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20463.14,
+          27812.33
+        ]
+      }
+    }
+  ]
+}

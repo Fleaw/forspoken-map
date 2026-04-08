@@ -1,0 +1,16 @@
+@use "base/reset";
+@use "base/theme";
+@use "base/utilities";
+@use "map/leaflet-overrides";
+@use "map/graticule";
+@use "map/drawing";
+@use "ui/modal";
+@use "ui/popup";
+@use "ui/sidepanel";
+@use "ui/bookmarks";
+@use "ui/search";
+@use "material-icons-wrapper";
+
+.leaflet-layerstree-header-name {
+	font-weight: bold;
+}

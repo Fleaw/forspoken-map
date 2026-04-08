@@ -1,0 +1,1 @@
+docker compose run --rm webapp npm install vite --save-dev

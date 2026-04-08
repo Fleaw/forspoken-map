@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 1",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Clere"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27654.8,
+          25805.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 2",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Constantia"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29415.85,
+          25218.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 3",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Mia"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28087.68,
+          24563.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 4",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Ledat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29613.22,
+          29449.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 5",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Ziti"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29859.61,
+          27568.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 6",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Rinat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27445.76,
+          28094.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 7",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Aramak"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24599.76,
+          26688.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 8",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Gregoire"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23559.62,
+          27470.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 9",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Saglan"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26370.46,
+          24771.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 10",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Sana"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25419.93,
+          25929.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 11",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Eldie"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22528.07,
+          26060.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 12",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Kennah"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20681.72,
+          25244.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 13",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Sigrun"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19514.86,
+          25743.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 14",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Leite"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24897.1,
+          25124.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 15",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Zestion"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22334.16,
+          27554.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 16",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Kalpana"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25773.71,
+          22871.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 17",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Chini"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25188.84,
+          22716.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 18",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Advik"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26335.33,
+          22210.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 19",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Bodhi"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25305.83,
+          23472.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Familiar Monument 20",
+        "type": "familiar",
+        "rewards": [
+          {
+            "kind": "cat",
+            "id": "Esha"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23332.19,
+          21977.76
+        ]
+      }
+    }
+  ]
+}

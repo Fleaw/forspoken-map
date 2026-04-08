@@ -1,0 +1,41 @@
+{
+  "name": "app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "prebuild": "node scripts/generate-material-icons-scss.js",
+    "build": "vite build",
+    "build:desktop": "vite build --mode desktop",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.0",
+    "sass": "^1.97.3",
+    "stylelint": "^17.4.0",
+    "stylelint-config-standard": "^40.0.0",
+    "stylelint-config-standard-scss": "^17.0.0",
+    "stylelint-scss": "^7.0.0",
+    "vite": "^7.3.1",
+    "vite-bundle-visualizer": "^1.2.1",
+    "vite-plugin-purgecss-updated-v5": "^1.2.7"
+  },
+  "dependencies": {
+    "@geoman-io/leaflet-geoman-free": "^2.19.2",
+    "jquery": "^4.0.0",
+    "js-yaml": "^4.1.1",
+    "leaflet": "^1.9.4",
+    "leaflet-contextmenu": "^1.4.0",
+    "leaflet-easybutton": "^2.4.0",
+    "leaflet-layergroup-conditional": "^2.0.1",
+    "leaflet-mouse-position": "^1.2.0",
+    "leaflet-notifications": "^1.0.7",
+    "leaflet-search": "^4.0.0",
+    "leaflet.control.layers.tree": "^1.2.0",
+    "leaflet.markercluster": "^1.5.3",
+    "leaflet.sidepanel": "^1.2.3",
+    "lodash.merge": "^4.6.2",
+    "pmtiles": "^4.4.0"
+  }
+}

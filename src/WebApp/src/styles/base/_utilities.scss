@@ -1,0 +1,22 @@
+﻿.entry-icon,
+.list-item-checkbox,
+.material-symbols-rounded {
+  vertical-align: middle;
+}
+
+.list-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+}
+
+.copy-coords {
+  cursor: pointer;
+  gap: 6px;
+  padding: 4px 8px;
+
+  &.copied {
+    color: #ff4044;
+  }
+}

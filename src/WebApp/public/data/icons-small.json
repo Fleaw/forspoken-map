@@ -1,0 +1,10 @@
+{
+  "archive": "archive_entry",
+  "cloak": "cloak",
+  "exp": "experience",
+  "magic": "mana",
+  "nails": "nail_design",
+  "necklace": "necklace",
+  "spell": "spell",
+  "stat": "stat_increase"
+}

@@ -1,0 +1,406 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Krev",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28090.82,
+          25833.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Virtus",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29341.98,
+          28015.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Optima",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Passion"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28266.37,
+          27836.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Mico",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28898.58,
+          29137.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Korumak",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26322.52,
+          26030.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Eminn",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25417.03,
+          25061.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Kuvvetli",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23702.29,
+          25867.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Lazum",
+        "type": "fortress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27229.47,
+          29427.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Gabb",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Flaunt"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19730.56,
+          28515.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Laayak",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Wisdom"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24683.53,
+          21998.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Wielki",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Dig Deep"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27613.42,
+          25275.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Sestina",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Frostbite"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21251.59,
+          23269.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Ensenhamen",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22261.95,
+          26772.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Gerek",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23613.29,
+          27953.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Fides",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30320.07,
+          27646.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Balada",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21159.16,
+          25439.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Diivaar",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25229.05,
+          24089.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Chahiye",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Hope"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24114,
+          20913.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Puraa",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24484.97,
+          23173.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Alba",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22717,
+          25404.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Praenost",
+        "type": "fortress",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "A Praenostian Outpost"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28133.01,
+          26950.32
+        ]
+      }
+    }
+  ]
+}

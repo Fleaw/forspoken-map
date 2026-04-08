@@ -1,0 +1,705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 1",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26879.55,
+          23969.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 2",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26932.01,
+          24561.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 3",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26750.01,
+          24183.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 4",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27041.4,
+          24785.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 5",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27217.77,
+          24587.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 6",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28319.32,
+          24107.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 7",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28795.02,
+          25512.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 8",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28047.1,
+          26876.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 9",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29088.88,
+          25115.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 10",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27295.68,
+          26554.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 11",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27633,
+          28600
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 12",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29840,
+          28190
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 13",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29112.88,
+          27418.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 14",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28736.86,
+          28083.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 15",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30135.99,
+          27508.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 16",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28667.39,
+          28536.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 17",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27982.4,
+          28609.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 18",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25982.45,
+          25203.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 19",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25661.38,
+          23955.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 20",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25461.37,
+          24820.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 21",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25868.96,
+          25698.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 22",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25792.93,
+          26075.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 23",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26842.39,
+          26026.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 24",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25200,
+          25259.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 25",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24035.24,
+          26869.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 26",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24478.31,
+          27930.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 27",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24806.08,
+          24418.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 28",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24801.92,
+          27005.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 29",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25313.49,
+          28123.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 30",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25416.64,
+          28650.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 31",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22434.99,
+          22500.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 32",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21449.66,
+          23966.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 33",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21151.99,
+          24409.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 34",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21976.12,
+          26109.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 35",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24617.88,
+          24964.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 36",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21403.67,
+          26071.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 37",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22056.68,
+          27516.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 38",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23056,
+          27457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 39",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19942.89,
+          25672.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 40",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20384.68,
+          28225.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 41",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20436.88,
+          25018.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 42",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20773.04,
+          24968.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 43",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22410.27,
+          24335.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 44",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27140.66,
+          22191.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 45",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24023.25,
+          23003.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 46",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26281.47,
+          22867.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 47",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24529.39,
+          21130.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 48",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25251.5,
+          22957.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 49",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25440.52,
+          23541.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Photo spot 50",
+        "type": "photospot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23977.69,
+          23367.81
+        ]
+      }
+    }
+  ]
+}

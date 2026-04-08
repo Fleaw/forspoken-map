@@ -1,0 +1,21 @@
+{
+	"layers": [
+		{
+			"name": "relief",
+			"selected": true,
+			"files": [
+				{ "file": "tiles/tiles_00.pmtiles" },
+				{ "file": "tiles/tiles_01.pmtiles" },
+				{ "file": "tiles/tiles_02.pmtiles" },
+				{ "file": "tiles/tiles_03.pmtiles" },
+				{ "file": "tiles/tiles_04.pmtiles" },
+				{ "file": "tiles/tiles_05.pmtiles" },
+				{ "file": "tiles/tiles_06.pmtiles" },
+				{ "file": "tiles/tiles_07.pmtiles" },
+				{ "file": "tiles/tiles_08.pmtiles" },
+				{ "file": "tiles/tiles_09.pmtiles" },
+				{ "file": "tiles/tiles_10.pmtiles" }
+			]
+		}
+	]
+}

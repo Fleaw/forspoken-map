@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhulna Villa",
+        "type": "relic",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Gracious"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25517.46,
+          22104.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Militis Academy",
+        "type": "relic",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Unstoppable"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28209.34,
+          28347.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pastorale Courthouse",
+        "type": "relic",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25924.99,
+          25820.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heimur Library",
+        "type": "relic",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Olas: Polymath"
+          },
+          {
+            "kind": "archive",
+            "id": "Olas's Power"
+          },
+          {
+            "kind": "archive",
+            "id": "Dilys Goldenvoice: Part Two"
+          },
+          {
+            "kind": "archive",
+            "id": "Meowsipurr's Apprentice: Part Two"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22073.18,
+          25312.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Place of Prayer",
+        "type": "relic",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Balle Balle"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26581.74,
+          23066.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kamall Library",
+        "type": "relic",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Visoria's Gift to Athia"
+          },
+          {
+            "kind": "archive",
+            "id": "Visoria: The Good Old Days"
+          },
+          {
+            "kind": "archive",
+            "id": "The Warboats: Part Two"
+          },
+          {
+            "kind": "archive",
+            "id": "The Visorian Resistance"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21509.26,
+          25981.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Laera Villa",
+        "type": "relic",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Critical System Failure"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20463.08,
+          28210.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altar of Aasaan",
+        "type": "relic",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24886.94,
+          22662.77
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2441 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 1",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28808.32,
+          28226.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 2",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28947.7,
+          28181.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 3",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24526.89,
+          27214.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 4",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24512.26,
+          27491.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 5",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25349.38,
+          28001.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 6",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20804.5,
+          25174.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 7",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24545.21,
+          27081.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 8",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24570.48,
+          27029.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 9",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24856.49,
+          27037.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 10",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20452.62,
+          25197.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 11",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20500.31,
+          24964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 15",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24309.37,
+          21726.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 16",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24103,
+          21726.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 17",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25543.73,
+          23020.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 18",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25869.85,
+          22940.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 19",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22780.65,
+          23728.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 20",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22916.12,
+          22018.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 22",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28453.06,
+          27263.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 27",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27059.86,
+          23811.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 28",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27303.58,
+          23999.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 29",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27471.28,
+          24363.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 30",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26870.35,
+          24617.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 31",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26303.17,
+          24118.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 32",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29244.24,
+          24696.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 33",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29108.47,
+          25478.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 34",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29669.05,
+          25095.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 35",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29153.97,
+          25231.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 36",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27892.77,
+          24460.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 37",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28403.46,
+          24270.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 38",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28530.58,
+          24352.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 39",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28519.73,
+          24458.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 40",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28262.08,
+          24594.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 41",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30116.69,
+          28786.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 42",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29945.06,
+          28360.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 43",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27249.11,
+          26348.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 44",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27499.55,
+          26590.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 45",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27057.21,
+          26256.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 46",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26989.53,
+          25921.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 47",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26932.75,
+          26194.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 48",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27480.74,
+          25882.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 49",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27630.07,
+          26066.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 50",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27080.01,
+          25864.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 51",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27162.34,
+          26142.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 52",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26858.43,
+          25955.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 53",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27762.97,
+          26579.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 54",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27441.99,
+          25921.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 55",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28651.58,
+          28195.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 56",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27765.18,
+          27663.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 57",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28542.98,
+          27347.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 58",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30110.06,
+          27262.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 59",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30156.32,
+          27170.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 60",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29222.69,
+          27611.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 61",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29264.98,
+          27868.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 62",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28873.21,
+          27776.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 63",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29098.81,
+          27740.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 64",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29394.98,
+          27825.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 65",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29077.48,
+          27365.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 66",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29159.83,
+          27391.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 67",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28853.38,
+          27822.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 68",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28919.01,
+          27399.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 69",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28074.02,
+          27104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 70",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28120.63,
+          26965.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 71",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27838.41,
+          26772.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 72",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28024.82,
+          26950.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 74",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27253.47,
+          25070.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 75",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26999.91,
+          24799.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 76",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27485.53,
+          24953.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 77",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28230.88,
+          28523.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 78",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27949.75,
+          28701.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 79",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29273.93,
+          28764.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 80",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28732.56,
+          28940.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 81",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26866.1,
+          26774.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 82",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26820.29,
+          26573.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 83",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27281.47,
+          26784.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 84",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23151.24,
+          25982.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 85",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24133.06,
+          27388.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 86",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23561.82,
+          27405.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 87",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23759.68,
+          27663.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 88",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26392.32,
+          28291.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 95",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26492.74,
+          24150.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 96",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26032.95,
+          24639.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 97",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26122.98,
+          24139.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 98",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24297.32,
+          25833.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 99",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24541.23,
+          25661.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 100",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24753.98,
+          25601.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 101",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25279.31,
+          26001.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 102",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24480.22,
+          25584.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 107",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27434.36,
+          29560.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 108",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26845.5,
+          29009.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 109",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27156.72,
+          28488.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 110",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26654.85,
+          28718.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 111",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27526.92,
+          28185.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 112",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26739.81,
+          28071.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 113",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27603,
+          28837.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 114",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24015.86,
+          26906.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 115",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24597.68,
+          26324.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 118",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24758.12,
+          26461.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 119",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24825.14,
+          26608.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 121",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25836.45,
+          24304.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 122",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24822.35,
+          24498.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 123",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25933.46,
+          25108.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 124",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25835.02,
+          25272.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 125",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25615.62,
+          26060.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 126",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25913.46,
+          23717.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 127",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25252.19,
+          24128.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 128",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25559.82,
+          24986.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 129",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24993.84,
+          25091.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 130",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25190.06,
+          24171.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 131",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26140.25,
+          25215.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 132",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25346.5,
+          25513.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 133",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25672.14,
+          24533.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 134",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25806.53,
+          25653.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 135",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26836.33,
+          25981.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 136",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26534.14,
+          26455.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 139",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22389.11,
+          26305.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 140",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23156.94,
+          25776.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 141",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21663.74,
+          25809.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 142",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19562.72,
+          25446.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 143",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22860.78,
+          24463.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 144",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23078.97,
+          27677.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 145",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23005.36,
+          26806.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 146",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21957.72,
+          27298.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 147",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23089.9,
+          26591.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 149",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24526.75,
+          24034.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 150",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24389.3,
+          24066.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 151",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24372.69,
+          23753.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 152",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24489.86,
+          23829.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 153",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24195.1,
+          23687.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 154",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23405.6,
+          23463.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 155",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24921.23,
+          24139.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 156",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20660.4,
+          28154.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 157",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20138.83,
+          27980.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 158",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19972.11,
+          27503.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 159",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21329.57,
+          25651.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 160",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21397.47,
+          25892.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 161",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20407.98,
+          26018.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 162",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21160.39,
+          25894.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 163",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20871.19,
+          25702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 164",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22246.61,
+          22190.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 165",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24006.84,
+          24640.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 166",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24104.96,
+          24876.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 167",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24704.02,
+          25051.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 168",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24636.65,
+          24503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 169",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23430.07,
+          28358.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 170",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20336.15,
+          24729.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 171",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20628.51,
+          24484.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 172",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20797.38,
+          24413.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 173",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21496.38,
+          24346.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 174",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21456.86,
+          25189.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 175",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22003.5,
+          24242.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 176",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21548.49,
+          23529.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 177",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22220.43,
+          24842.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 178",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22596.06,
+          24107.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 179",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21168.28,
+          24008.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 180",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19795.73,
+          28223.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 181",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26926.42,
+          23255.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 182",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26189.89,
+          22524.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 183",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27077.77,
+          23242.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 184",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26793.26,
+          23339.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 185",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25205.56,
+          22583.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 186",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23954.51,
+          20826.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 188",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25718.91,
+          21574.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 191",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25445.85,
+          21394.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 192",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27065.73,
+          22191.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 193",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25305.45,
+          23447.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 194",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25144.09,
+          23131.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 195",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24871.86,
+          21964.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 197",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24212.27,
+          22643.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 198",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24390.72,
+          22373.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 199",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22407.66,
+          21743.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 200",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26696.69,
+          22432.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 201",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25112.04,
+          24993.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 202",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26257.92,
+          24721.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puzzle chest 203",
+        "type": "puzzlechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24339.98,
+          21849.54
+        ]
+      }
+    }
+  ]
+}

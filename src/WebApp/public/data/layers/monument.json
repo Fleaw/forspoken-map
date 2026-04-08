@@ -1,0 +1,761 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 1",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26184.68,
+          23576.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 2",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27707.49,
+          23783.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 3",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27730.59,
+          26461.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 4",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28782.9,
+          25743.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 5",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27909.55,
+          28709.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 6",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30905.03,
+          28027.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 7",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26066.66,
+          23915.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 8",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26480.87,
+          26358.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 9",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23317.4,
+          26874.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 10",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25072.74,
+          23385.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 11",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25965.01,
+          22002.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 12",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24498.85,
+          22721.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 13",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20643.2,
+          24699.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 14",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21914.13,
+          26382.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 15",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21065.39,
+          24619.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 16",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24138.6,
+          23984.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 17",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24749.71,
+          28270.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Love 18",
+        "type": "monument_to_love"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24945.18,
+          26925.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 1",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25227.42,
+          25544.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 2",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28891.57,
+          29266.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 3",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29326.72,
+          27864.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 4",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29034.07,
+          24595.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 5",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27278.72,
+          24685.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 6",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27206.42,
+          24333.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 7",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26522.13,
+          24270.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 8",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27146,
+          23528.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 9",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27187.88,
+          22961.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 10",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25098.73,
+          24017.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 11",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24565.16,
+          21206.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 12",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24425.08,
+          22745.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 13",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19572.07,
+          28603.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 14",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23067.56,
+          26690.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 15",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21959.73,
+          23240.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 16",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24951.72,
+          24947.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 17",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25738.82,
+          28355.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Justice 18",
+        "type": "monument_to_justice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25271.49,
+          26984.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 1",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23557.58,
+          26180.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 2",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25714.55,
+          25287.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 3",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28466.29,
+          27485.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 4",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28266.21,
+          27385.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 5",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28124.65,
+          24326.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 6",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26983.71,
+          24821.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 7",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27726.48,
+          24055.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 8",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26501.75,
+          23668.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 9",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26210.7,
+          22486.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 10",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26957.6,
+          21917.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 11",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25649.03,
+          23708.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 12",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22375.05,
+          21680.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 13",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20134.11,
+          26496.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 14",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22449.52,
+          25669.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 15",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22735.42,
+          24041.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 16",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24138.49,
+          24913.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 17",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27535.7,
+          28733.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument to Strength 18",
+        "type": "monument_to_strength"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24198.23,
+          28134.73
+        ]
+      }
+    }
+  ]
+}

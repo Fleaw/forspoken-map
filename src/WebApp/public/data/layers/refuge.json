@@ -1,0 +1,741 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barren Plains Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27125.32,
+          23720.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Cipal Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27929.46,
+          23878.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blessed Plains Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Trouble in Praenost (3877)"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26866.42,
+          23948.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacred Peaks Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26506.4,
+          22740.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guardians' Way Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Fall of Praenost"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27127.23,
+          24926.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middle Praenost: Northern Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Road to Rebuilding"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27638.44,
+          26172.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dianthus Wood Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27860.05,
+          24746.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Home of Heroes Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28687.69,
+          26016.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brass Hollow Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29023.27,
+          25276.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middle Praenost: Western Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26871.9,
+          26551.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citadel: Western Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Tales of the Tantas: The Wellspring"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28325.26,
+          26976.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citadel: Eastern Refuge",
+        "type": "refuge",
+        "rewardID": "Breakstorms, Part 2",
+        "rewards": [
+          {
+            "kind": "archive"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28631.09,
+          26841.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fields of the Fallen: Northern Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Slaughter in Praenost"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29653.46,
+          27977.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praenost Castle Town Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "A City Grows in Praenost"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28855.13,
+          28036.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opal Hills Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30630.68,
+          28133.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fields of the Fallen: Southern Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29520.3,
+          28361.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Garrison Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28333.07,
+          27572.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Garden Central Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Tales of the Tantas: The Great Stones"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25942.64,
+          24821.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fountainfields Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24739.11,
+          25811.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Garden: Northern Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25659.41,
+          23763.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Garden: Southern Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25694.47,
+          26079.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trout Mountain Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26288.74,
+          26192.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Untrodden Forest Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24417.66,
+          26760.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Misty Shore Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Dreaded Trial by Water"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24546.01,
+          27668.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Hills: Southern Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23960.43,
+          27187.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Hills: Northern Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23498.26,
+          26187.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samum Coast: Western Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24853.04,
+          28437.19
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samum Coast: Eastern Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26165.31,
+          28571.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moulderings Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27281.84,
+          28542.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visoria Castle Town Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20797.25,
+          24968.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windy Hills Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24827.74,
+          24557.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shepherd's Meadow Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23850.57,
+          23925.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humble Plain: Eastern Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22348.19,
+          24290.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visorian Plateau Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Visorian Castle: Towering Edifice"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21247.93,
+          24827.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humble Plain: Western Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21807.38,
+          23788.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visorian Isthmus Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22446.7,
+          21703.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Academy Hills Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22739.44,
+          25777.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inner Visoria Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22118.39,
+          26601.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Tree Mountain Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Boy's Diary: Ambushed"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23157.79,
+          27823.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Demesne Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21112.33,
+          26197.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Plateau Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20228.71,
+          28039.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junoon Castle Town Refuge",
+        "type": "refuge",
+        "rewarddId": "A Land Lost\nThe Four Realms",
+        "rewards": [
+          {
+            "kind": "archive"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25787.72,
+          23127.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blossomwoods Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25040.2,
+          23537.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harvest Lands Refuge",
+        "type": "refuge",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Boy's Diary: Day of Departure"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24089.7,
+          22936.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Physic Garden Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24872.21,
+          22208.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crosstide Coast Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24578.92,
+          21698.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nowhere Refuge",
+        "type": "refuge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27018.88,
+          22077.73
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blessed Plains Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27451.35,
+          24068.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sacred Peaks Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26961.59,
+          22981.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guardians' Way Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27456.96,
+          24962.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dianthus Wood Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28215.98,
+          24587.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brass Hollow Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28886.82,
+          24980.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Home of Heroes: Northern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29019.59,
+          25829.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Home of Heroes: Southern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28236.82,
+          26135.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middle Praenost: Northern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27613.97,
+          25686.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middle Praenost: Western Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27267.57,
+          26221.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middle Praenost: Eastern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27761.75,
+          26284.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citadel Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28370.8,
+          27104.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pioneers' Plain Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28990.02,
+          27925.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Opal Hills Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30170.09,
+          27756.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fields of the Fallen: Northern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29874.1,
+          28137.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fields of the Fallen: Southern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29437.78,
+          28719.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mustering Ground Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28546.78,
+          28675.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Garrison Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28518.02,
+          28247.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Garden: Central Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25849.79,
+          24873.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Garden: Western Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25187.18,
+          24635.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Garden: Northern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25701.24,
+          24187.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Water Garden: Southern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25224.63,
+          25767.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trout Mountain: Western Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25858.86,
+          26171.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trout Mountain: Eastern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26682.64,
+          26311.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Untrodden Forest Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24376.33,
+          26473.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avoalet Castle Town Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24407.96,
+          27095.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Hills: Southern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23671.66,
+          27293.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Hills: Northern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23324.68,
+          26515.39
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samum Coast: Western Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25832.46,
+          28477.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samum Coast: Eastern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26362.85,
+          28259.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moulderings Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27193.82,
+          28721.13
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shepherd's Meadow: Eastern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24628.94,
+          24361.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shepherd's Meadow: Western Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23684.39,
+          23673.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolfwoods Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24078.62,
+          22587.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visorian Plateau: Eastern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21673.97,
+          24394.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visorian Plateau: Western Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21190.44,
+          23819.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humble Plain: Northern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22110.47,
+          23487.31
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humble Plain: Southern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22278.68,
+          24961.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Academy Hills: Northern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22239.04,
+          25539.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Academy Hills: Southern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22515.84,
+          26259.33
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inner Visoria Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22623,
+          27307.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Demesne: Eastern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21284,
+          25617.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanta's Demesne: Western Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20427.9,
+          25677.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Homestead Hills Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20280.75,
+          26470.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cipalian Way: Southern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26150.01,
+          23189.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cipalian Way: Northern Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25885.88,
+          22573.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Physic Garden Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25298.96,
+          22358.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harvest Lands Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24690.21,
+          23634.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crosstide Coast Belfry",
+        "type": "belfry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24707.41,
+          21437.1
+        ]
+      }
+    }
+  ]
+}

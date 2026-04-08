@@ -1,0 +1,673 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Mylodon",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27257.13,
+          23573.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Ilingoceros",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27890.2,
+          23778.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Mylodon",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27104.95,
+          24094.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Goliath",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26956.73,
+          24496.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Borophagus",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27276.43,
+          23067.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Goliath",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26687.15,
+          22269.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Goliath",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28571.49,
+          24085.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Stegotretus",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28844.89,
+          25484.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Nunda",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26660.53,
+          27471.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Aiolornis",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28530.39,
+          27065.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Nunda",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28424.96,
+          28570.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Aiolornis",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30380.47,
+          28444.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Nunda",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28035.54,
+          28909.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Ilingoceros",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26330.04,
+          24426.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Mylodon",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25985.41,
+          24907.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Quinkana",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25302.36,
+          24565.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Ilingoceros",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24697.45,
+          25686.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Goliath",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26495.12,
+          26014.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Quinkana",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26391.82,
+          26674.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Quinkana",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24676.03,
+          27401.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Mylodon",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23806.97,
+          26106.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Aiolornis",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23793.48,
+          26598.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Nunda",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23354.13,
+          23712.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Borophagus",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24014.39,
+          24204.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Borophagus",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23085.53,
+          23824.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Aiolornis",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22324.17,
+          22638.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Stegotretus",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20654.44,
+          24208.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Nunda",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21576.92,
+          25347.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Ilingoceros",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20874.31,
+          25466.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Borophagus",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21262.39,
+          26227.71
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Mylodon",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20057.12,
+          25023.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Goliath",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19976.49,
+          28470.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Stegotretus",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24616.99,
+          24813.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Borophagus",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25222.79,
+          23791.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Stegotretus",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24577.86,
+          22668.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Quinkana",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24394.57,
+          21270.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Stegotretus",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22674.92,
+          21490.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Aiolornis",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25214.5,
+          21530.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altered Ilingoceros",
+        "type": "mutant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25430.35,
+          23856.17
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Rock Beds",
+        "type": "abomination",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Fatale"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27922.89,
+          28082.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Sunken Lands",
+        "type": "abomination",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Spectrum"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26808.72,
+          28458.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Boneyard",
+        "type": "abomination",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Horror"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20971.3,
+          27173.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Koshish",
+        "type": "abomination",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Escalate"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27392.24,
+          22233.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giant Nightmare 1",
+        "type": "nightmare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25909.15,
+          23276.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giant Nightmare 2",
+        "type": "nightmare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30206.71,
+          27103.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Giant Nightmare 3",
+        "type": "nightmare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23189.88,
+          28375.89
+        ]
+      }
+    }
+  ]
+}

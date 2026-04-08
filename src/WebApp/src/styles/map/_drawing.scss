@@ -1,0 +1,29 @@
+.main-area-label {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  font-weight: bold !important;
+  pointer-events: none !important;
+  font-size: 30px !important;
+  color: rgb(255 228 72 / 90%) !important;
+  text-shadow: 4px 4px 2px #000 !important;
+}
+
+.sub-area-label {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  font-weight: bold !important;
+  pointer-events: none !important;
+  font-size: 20px !important;
+  color: rgb(255 228 72 / 90%) !important;
+  text-shadow: 4px 4px 2px #000 !important;
+}
+
+.area-polygon {
+  transition: fill-opacity 0.8s ease !important;
+
+  &:focus {
+    outline: none;
+  }
+}

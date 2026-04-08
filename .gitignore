@@ -1,0 +1,93 @@
+############################
+#   .NET / WPF
+############################
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userprefs
+riderModule.iml
+/_ReSharper.Caches/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# MSBuild intermediate files
+*.cache
+*.db
+*.mdb
+*.pdb
+
+# Publish output (optional)
+publish/
+
+############################
+#   Node / Vite / WebApp
+############################
+
+# Dependencies
+node_modules/
+
+# Vite build output
+dist/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Vite cache
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+############################
+#   Docker
+############################
+
+# Docker build artifacts
+**/.dockerignore
+docker-compose.override.yml
+docker-data/
+docker-volumes/
+
+# If you use bind mounts that create local folders
+webapp/node_modules/
+
+############################
+#   OS / Editor junk
+############################
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+############################
+#   WebView2 / Build Integration
+############################
+
+# Timestamp used for incremental builds
+**/webapp.build.timestamp
+
+# Any generated integration artifacts
+wwwroot/

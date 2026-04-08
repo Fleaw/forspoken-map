@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mulberry Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Leap"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27023.8,
+          23731.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mulberry Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Burrow"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29355.16,
+          24829.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mulberry Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Shimmy"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28592.85,
+          26934.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosewood Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Beacon"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28253.23,
+          28970.86
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosewood Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Soar"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25368.75,
+          24798.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rosewood Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Rush"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23221.95,
+          27589.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juniper Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Sublimation"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27611.67,
+          29077.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Fortify"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23988.57,
+          24759.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Float"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21553.73,
+          28182.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Alb"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20197.45,
+          24570.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juniper Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Spoof"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25074,
+          21951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juniper Fount",
+        "type": "fount",
+        "rewards": [
+          {
+            "kind": "spell",
+            "id": "Diversify"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23984.1,
+          20880.37
+        ]
+      }
+    }
+  ]
+}

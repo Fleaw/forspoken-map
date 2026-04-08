@@ -1,0 +1,13 @@
+﻿.graticule-label {
+  color: white;
+  font-size: 12px;
+  font-weight: 600;
+  text-shadow: 0 0 3px black;
+  pointer-events: none;
+}
+
+.leaflet-grid-label .gridlabel-vert,
+.leaflet-grid-label .gridlabel-horiz {
+  font-size: 2em !important;
+  padding-left: 20px !important;
+}

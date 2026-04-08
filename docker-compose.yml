@@ -1,0 +1,12 @@
+services:
+  webapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: webapp-dev
+    ports:
+      - "5173:5173"   # Vite dev server
+    volumes:
+      - ./src/WebApp:/app        # Mount project files
+      - /app/node_modules  # Prevent node_modules override
+    command: sh -c "npm run dev"

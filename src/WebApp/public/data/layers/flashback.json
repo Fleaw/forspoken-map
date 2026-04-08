@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Fallen Temple (Elimination)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27300.4,
+          23273.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Fortress Overrun (Elimination)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27547.6,
+          25169.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Raging Raider (Elimination)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28765.67,
+          25288.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Signal to Strike (Snipe)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27698.48,
+          26053.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Race for the Ramparts (Messenger)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29128.59,
+          27730.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Village Besieged (Survival)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28199.73,
+          28641.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Vital Outpost (Survival)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25410.1,
+          25211.41
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A Bridge Too Far (Snipe)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24947.2,
+          25830.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Runner's Choice (Messenger)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23428.7,
+          26718.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fortress Clear-Out (Elimination)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27229.49,
+          29329.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Head for the Plains (Elimination)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23978.83,
+          24349.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nightmare's Roost (Elimination)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20802.97,
+          23746.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outpost at the Edge of Despair (Survival)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22794.78,
+          25342.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Downhill Dash (Messenger)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22205.71,
+          27577.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Back-Road Raid (Snipe)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20158.85,
+          28410.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Run the Gauntlet (Messenger)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25780.43,
+          22238.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Tempest (Snipe)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25865.68,
+          23192.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CImpregnable Defenses (Elimination)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25263.36,
+          23922.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monsters' Lair (Elimination)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23564.61,
+          22667.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Last Stand (Survival)",
+        "type": "flashback"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24200.21,
+          20980.94
+        ]
+      }
+    }
+  ]
+}

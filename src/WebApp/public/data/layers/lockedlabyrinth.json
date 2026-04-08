@@ -1,0 +1,313 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: East",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Orison"
+          },
+          {
+            "kind": "archive",
+            "id": "Ancient Altar: Inscription 1"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27567.18,
+          23816.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: Barrier",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Lief"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27533.31,
+          25374.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: Cliff",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Puissant"
+          },
+          {
+            "kind": "archive",
+            "id": "Writings of a Rheddig Soldier 1"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28319.92,
+          27316.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: Mountain",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Shrift"
+          },
+          {
+            "kind": "archive",
+            "id": "Ancient Altar: Inscription 3"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29006.75,
+          27670.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: Hill",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Shrift"
+          },
+          {
+            "kind": "archive",
+            "id": "Writings of a Rheddig Soldier 2"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26640.18,
+          24254.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: Mountain Base",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Fain"
+          },
+          {
+            "kind": "archive",
+            "id": "Writings of a Rheddig Soldier 3"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24356.02,
+          25961.09
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: Depths",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Troth"
+          },
+          {
+            "kind": "archive",
+            "id": "Ancient Altar: Inscription 4"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24578.18,
+          26872.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: Field",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Bonifate"
+          },
+          {
+            "kind": "archive",
+            "id": "Writings of a Rheddig Soldier 4"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22162.06,
+          24517.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: West",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Whilom"
+          },
+          {
+            "kind": "archive",
+            "id": "Writings of a Rheddig Soldier 5"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21418.58,
+          25059.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: South",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Sooth"
+          },
+          {
+            "kind": "archive",
+            "id": "Ancient Altar: Inscription 5"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20731.64,
+          26518.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: Forest",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Monsterful"
+          },
+          {
+            "kind": "archive",
+            "id": "Writings of a Rheddig Soldier 6"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24117.99,
+          22101.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: Castle",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Forfend"
+          },
+          {
+            "kind": "archive",
+            "id": "Writings of a Rheddig Soldier 7"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25566.99,
+          23183.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Locked Labyrinth: North",
+        "type": "labyrinth",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Veriment"
+          },
+          {
+            "kind": "archive",
+            "id": "Ancient Altar: Inscription 6"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22485.24,
+          21744.11
+        ]
+      }
+    }
+  ]
+}

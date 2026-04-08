@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cipal",
+        "type": "cipal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26682.5,
+          23619.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praenost Castle",
+        "type": "castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28861.71,
+          28322.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avaolet Castle",
+        "type": "castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25235.2,
+          28323.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visoria Castle",
+        "type": "castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20577.94,
+          25130.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junoon Castle",
+        "type": "castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25201.52,
+          22831.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merveil Bridge",
+        "type": "bridge",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25680.69,
+          24977.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Supera Bridge",
+        "type": "bridge",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25091.85,
+          25799.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praenost Castle Ramparts",
+        "type": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28924.06,
+          26927.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saray Gate",
+        "type": "gate",
+        "rewards": [
+          {
+            "kind": "stamina"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24765.03,
+          27786.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visoria Castle: Main Gate",
+        "type": "gate",
+        "rewards": [
+          {
+            "kind": "stamina"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20922.93,
+          24919.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tranquil Gate",
+        "type": "gate",
+        "rewards": [
+          {
+            "kind": "stamina"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22428.39,
+          21834.37
+        ]
+      }
+    }
+  ]
+}

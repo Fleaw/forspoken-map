@@ -1,0 +1,582 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kadmeia Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Fleeting Dream of Contentment: Volume Two"
+          },
+          {
+            "kind": "archive",
+            "id": "The Fleeting Dream of Contentment: Volume Three"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26579.48,
+          22418.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tellus Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28621.94,
+          24437.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solida Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Sila's Power"
+          },
+          {
+            "kind": "archive",
+            "id": "The Effects of the Break"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27241.06,
+          24543.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buraq Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Broken, Part 1"
+          },
+          {
+            "kind": "archive",
+            "id": "The Tantas' Chosen and the Broken"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27401.93,
+          25279.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kloros Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "III"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27432.38,
+          25858.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silex Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Effects of the Break on Athia's Flora"
+          },
+          {
+            "kind": "archive",
+            "id": "The Effects of the Break on Athia's Minerals"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26231.82,
+          26626.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lithos Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Nightmares, Part 1"
+          },
+          {
+            "kind": "archive",
+            "id": "Nightmares, Part 2"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27794.45,
+          26918.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferrum Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Broken by Design, Part 2"
+          },
+          {
+            "kind": "archive",
+            "id": "The Broken, Part 2"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28075.58,
+          27503.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brome Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Bounce"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26874.81,
+          27793.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russe Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Broken by Design, Part 1"
+          },
+          {
+            "kind": "archive",
+            "id": "Broken by Design, Part 3"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30033.94,
+          28529.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lutetia Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Ballow Tree, Part 1"
+          },
+          {
+            "kind": "archive",
+            "id": "The Ballow Tree, Part 2"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25954.92,
+          24534.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zinke Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Prav's Power"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23751.69,
+          26451.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carbo Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Avoalet: The Good Old Days"
+          },
+          {
+            "kind": "archive",
+            "id": "Visions of Avoalet"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23193.54,
+          26048.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hafnia Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Visorian Ingenuity"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23083.89,
+          26573.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Theion Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22589.76,
+          27676.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaljan Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20251.61,
+          24439.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rhodas Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Cinta's Power"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25950.88,
+          23411.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baryte Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Memories of Olas"
+          },
+          {
+            "kind": "archive",
+            "id": "Visoria and Junoon"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23446.38,
+          23625.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Molybdos Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Faultless"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24903.37,
+          26506.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anergon Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27047.56,
+          29682.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Astatos Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Visions in Visoria"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21543.04,
+          25546.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vanadis Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Junoon Investigates the Break"
+          },
+          {
+            "kind": "archive",
+            "id": "Memories of Cinta"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24564.07,
+          23568.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oxys Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Fearless"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26590.05,
+          21712.34
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alum Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22364.87,
+          23564.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niccoline Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Unsurpassable"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20701.7,
+          28100.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beryl Guild",
+        "type": "guild",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Junoon Debates the Break"
+          },
+          {
+            "kind": "archive",
+            "id": "The Broken, Part 3"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25486.33,
+          22598.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Xenos Guild",
+        "type": "guild"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28102.05,
+          23725.68
+        ]
+      }
+    }
+  ]
+}

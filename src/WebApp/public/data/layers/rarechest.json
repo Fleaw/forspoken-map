@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 1",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27009.19,
+          24608.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 2",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26575.56,
+          23066.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 3",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29508.41,
+          24949.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 4",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27589.56,
+          26504.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 5",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29053.41,
+          26812.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 6",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27346.47,
+          25014.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 7",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28196.1,
+          28336.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 8",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23987.99,
+          27790.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 9",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25232.96,
+          22240.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 10",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24609.86,
+          25934.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 11",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25781.34,
+          25708.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 12",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25454.85,
+          25697.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 13",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23209.15,
+          25689.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 14",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22182.45,
+          25803.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 15",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20698.63,
+          28105.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 16",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24717.83,
+          25192.01
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 17",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21428.17,
+          24827.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 18",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26584.63,
+          21713.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 19",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25563.27,
+          22074.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rare chest 20",
+        "type": "rarechest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24748.22,
+          22510.69
+        ]
+      }
+    }
+  ]
+}

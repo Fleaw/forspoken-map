@@ -1,0 +1,823 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reeve",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Clutch"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26872.23,
+          24269.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thane",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Phool Sa"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27056.96,
+          24582.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ligare",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Valorous"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27347.83,
+          25017.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vule",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Visions of Praenost"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28345.23,
+          24202.74
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minera",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29283.35,
+          25453.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sliny",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28892.7,
+          26082.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reky",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Trouble in Praenost (3878)"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28313.29,
+          26396.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visus",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Nadezhda"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27585.77,
+          26498.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pronoia",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26891.75,
+          26299.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Legatus",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28203.41,
+          27249.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parno",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Memories of Sila"
+          },
+          {
+            "kind": "archive",
+            "id": "The Battle for Praenost Castle"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28211.73,
+          28702.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chichek",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Blessed"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25031.08,
+          24388.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Negotio",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Fall of Visoria"
+          },
+          {
+            "kind": "archive",
+            "id": "Meowsipurr's Apprentice: Part One"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22701.34,
+          24434.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ischi",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Avoalet by Night"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26582.08,
+          26064.18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Croible",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Laws of Cipalt"
+          },
+          {
+            "kind": "archive",
+            "id": "A New Government"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25537.93,
+          26635.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zeffir",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Avoalet's Misjudgment"
+          },
+          {
+            "kind": "archive",
+            "id": "Memories of Prav"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24122.15,
+          25997.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uzak",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27004.75,
+          28815.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Graenn",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Tales of the Tantas: Their Souls"
+          },
+          {
+            "kind": "Tarchive",
+            "id": "The Struggle to Rebuild"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24229.61,
+          24563.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skinka",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Visoria Bewitched"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21775.59,
+          23424.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fruegel",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Tesouro de Athia"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23194.84,
+          25676.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bjarg",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Visoria Besieged"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23237.23,
+          28090.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uprii",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Savage"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22472.62,
+          21594.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bechna",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Boy's Diary: The Journey Continues"
+          },
+          {
+            "kind": "archive",
+            "id": "Junoon: Foremost among Realms"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25944.36,
+          22771.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Polje",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28521.26,
+          27774.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maaf",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Medicines of Junoon"
+          },
+          {
+            "kind": "archive",
+            "id": "Junoon Combats the Break"
+          },
+          {
+            "kind": "archive",
+            "id": "The Gardens of Junoon"
+          },
+          {
+            "kind": "archive",
+            "id": "Boy's Diary: Familiar Ground"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25247.85,
+          22211.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gyuzel",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Judicious"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25462.46,
+          25689.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colline",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Yavuz Gagnant"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24621.26,
+          25913.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ghelenek",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Avoalet's Misgovernment"
+          },
+          {
+            "kind": "archive",
+            "id": "Avoalet's Betrayal"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24115.45,
+          26468.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiik",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24521.98,
+          22388.02
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakal",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25074.15,
+          23757.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sundar",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Boy's Diary: Discord"
+          },
+          {
+            "kind": "archive",
+            "id": "The Break Spreads through Junoon"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24369.75,
+          22252.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabosharr",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Infallible"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23981.66,
+          27791.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zakto",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Lit"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21044.5,
+          25913.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biichu",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Wired"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24987.42,
+          23290.81
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Khaas",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24801.69,
+          23011.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perle",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Heavy"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25743.8,
+          28117.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Praenost Castle Town",
+        "type": "village",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Praenost's Destruction"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28846.42,
+          28141.64
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avoalet Castle Town",
+        "type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24191.85,
+          27507.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Visoria Castle Town",
+        "type": "village",
+        "rewards": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20777.13,
+          25010.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Junoon Castle Town",
+        "type": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25774.76,
+          23211.11
+        ]
+      }
+    }
+  ]
+}

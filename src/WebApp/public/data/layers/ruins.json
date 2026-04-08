@@ -1,0 +1,758 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Plebus",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Rise of the Break"
+          },
+          {
+            "kind": "archive",
+            "id": "Boy's Diary: Robian's Persuasion"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27325.18,
+          23217.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Chipping",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26336.88,
+          23869.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Hopston",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Fleeting Dream of Contentment: Volume One"
+          },
+          {
+            "kind": "archive",
+            "id": "The Two Little Shepherds: Part One"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26656.23,
+          24431.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Sownley",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Praenost's Refugees"
+          },
+          {
+            "kind": "archive",
+            "id": "Destruction in Praenost"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27612.28,
+          24413.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Seno",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28420.9,
+          24479.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Sanus",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Praenost: The Good Old Days"
+          },
+          {
+            "kind": "archive",
+            "id": "Tyranny in Praenost"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28607.58,
+          25674.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Svetlo",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27350.81,
+          26510.77
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Volek",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27983.08,
+          27120.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Vinos",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28072.02,
+          26773.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Pagus",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Sarka"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29038.03,
+          26807.24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Lepsi",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Nightshade"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29285.53,
+          28400.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Zelennia",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Ignite"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26840.58,
+          27124.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Derbent",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25448.41,
+          24066.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Marr",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Fall of Tanta Prav"
+          },
+          {
+            "kind": "archive",
+            "id": "The Fall of Avoalet"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25835,
+          25179.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Okraj",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26648.64,
+          26662.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Eskii",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Twisted"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24437.91,
+          25718.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Ayaray",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25958.91,
+          26592.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Ortasinda",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25205.15,
+          26232.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Sommay",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Jet"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23450.89,
+          25986.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Calme",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Amped"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25048.12,
+          26504.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Tarihi",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24273.46,
+          26920.36
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Yuldis",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26514.44,
+          28411.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Huwn",
+        "type": "ruins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21497.52,
+          24082.76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Mercador",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Audacious"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21449.29,
+          24852.73
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Alda",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Beaucoup"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22616.99,
+          26911.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Gustar",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21277.44,
+          26546.66
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Aspataal",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25558.72,
+          22739.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Teharnaa",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "Tease"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25320.85,
+          21422.62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Baran",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27041.15,
+          22736.63
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Austur",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Oithur"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24710.19,
+          25207.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Antigo",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "exp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19982.66,
+          25165.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Brekka",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20588.93,
+          25962.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Zil",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20283.43,
+          26263.94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Oxter",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "Liberation"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20087.79,
+          27749.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Ventus",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29578.91,
+          28777.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Stjornmal",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21001.26,
+          25382.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Legra",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27351.76,
+          24319.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruins of Braige",
+        "type": "ruins",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21020.59,
+          25643.18
+        ]
+      }
+    }
+  ]
+}

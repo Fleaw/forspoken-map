@@ -1,0 +1,25 @@
+{
+	"files": [
+		{ "url": "data/layers/belfry.json" },
+		{ "url": "data/layers/buildings.json" },
+		{ "url": "data/layers/cave.json" },
+		{ "url": "data/layers/coin.json" },
+		{ "url": "data/layers/commonchest.json" },
+		{ "url": "data/layers/familiarstatue.json" },
+		{ "url": "data/layers/flashback.json" },
+		{ "url": "data/layers/fortress.json" },
+		{ "url": "data/layers/fount.json" },
+		{ "url": "data/layers/guild.json" },
+		{ "url": "data/layers/lockedlabyrinth.json" },
+		{ "url": "data/layers/misc.json" },
+		{ "url": "data/layers/monument.json" },
+		{ "url": "data/layers/photospot.json" },
+		{ "url": "data/layers/puzzlechest.json" },
+		{ "url": "data/layers/rarechest.json" },
+		{ "url": "data/layers/rareenemies.json" },
+		{ "url": "data/layers/refuge.json" },
+		{ "url": "data/layers/relic.json" },
+		{ "url": "data/layers/ruins.json" },
+		{ "url": "data/layers/village.json" }
+	]
+}

@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Curiosity Shop",
+        "type": "trading"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21948.54,
+          27508.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Depths of corruption: Praenost",
+        "type": "depth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27771.89,
+          26712.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Depths of corruption: Avaolet",
+        "type": "depth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24387.43,
+          26093.22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Depths of corruption: Visoria",
+        "type": "depth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23228.9,
+          23795.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Depths of corruption: Junoon",
+        "type": "depth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24285.89,
+          21921.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broken Cart",
+        "type": "trace",
+        "rewards": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27860.56,
+          23884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abandoned Encampment",
+        "type": "trace",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Warboats: Part One"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24327.1,
+          21840.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abandoned Merchant Convoy",
+        "type": "trace",
+        "rewards": [
+          {
+            "kind": "nails",
+            "id": "On Point"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26731,
+          22944.26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abandoned Military Convoy",
+        "type": "trace",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Long March from Praenost"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27594.94,
+          25528.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Battleground",
+        "type": "trace",
+        "rewards": [
+          {
+            "kind": "archive",
+            "id": "The Battle for Praenost"
+          },
+          {
+            "kind": "archive",
+            "id": "Remnants of the Rheddig"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30166.93,
+          27118.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Driftwood Shore",
+        "type": "trace",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25727.8,
+          23781.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shoal Pond",
+        "type": "trace",
+        "rewards": [
+          {
+            "kind": "necklace",
+            "id": "Aslani"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25779.92,
+          25709.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villagers' Campsite",
+        "type": "trace",
+        "rewards": [
+          {
+            "kind": "magic"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28720.24,
+          24882.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bridge of Beasts",
+        "type": "trace",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20868.97,
+          25691.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Forbidden Meadow",
+        "type": "trace",
+        "rewards": [
+          {
+            "kind": "cloak",
+            "id": "Incomparable"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24764.24,
+          22527.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Campground",
+        "type": "trace",
+        "rewards": [
+          {
+            "kind": "stat"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27274.31,
+          23665.8
+        ]
+      }
+    }
+  ]
+}

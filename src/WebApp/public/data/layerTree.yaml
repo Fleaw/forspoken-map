@@ -1,0 +1,99 @@
+points_of_interest:
+  label: "Points of Interest"
+  select_all: true
+  children:
+    - label: "Locations"
+      select_all: true
+      children:
+        - label: "Pilgrim's refuge"
+          name: "refuge"
+        - label: "Belfries"
+          name: "belfry"
+        - label: "Fountains of blessing"
+          name: "fount"
+
+    - label: "Activities"
+      select_all: true
+      children:
+        - label: "Monuments"
+          select_all: true
+          children :
+            - label: "Monument to Love"
+              name: "monument_to_love"
+            - label: "Monument to Justice"
+              name: "monument_to_justice"
+            - label: "Monument to Strength"
+              name: "monument_to_strength"
+        - label: "Flashbacks"
+          name: "flashback"
+        - label: "Ruins"
+          name: "ruins"
+        - label: "Villages"
+          name: "village"
+        - label: "Guilds"
+          name: "guild"
+        - label: "Fortresses"
+          name: "fortress"
+        - label: "Locked labyrinths"
+          name: "labyrinth"
+        - label: "Familiar statues"
+          name: "familiar"
+        - label: "Relic of Tantas"
+          name: "relic"
+
+    - label: "Spots"
+      select_all: true
+      children:
+        - label: "Photo spots"
+          name: "photospot"
+        - label: "Caves"
+          name: "cave"
+
+    - label: "Buildings"
+      select_all: true
+      children:
+        - label: "Cipal"
+          name: "cipal"
+          selected: true
+        - label: "Tanta's castles"
+          name: "castle"
+        - label: "Tanta gates"
+          name: "gate"
+        - label: "Bridges"
+          name: "bridge"
+
+    - label: "Misc."
+      select_all: true
+      children:
+        - label: "Trading spot"
+          name: "trading"
+        - label: "Depths of corruption"
+          name: "depth"
+        - label: "Traces of something"
+          name: "trace"
+
+    - label: "Treasures"
+      select_all: true
+      children:
+        - label: "Common chests"
+          name: "commonchest"
+          cluster: true
+        - label: "Puzzle chests"
+          name: "puzzlechest"
+          cluster: true
+        - label: "Rare chests"
+          name: "rarechest"
+        - label: "Old coins"
+          name: "coin"
+
+    - label: "Enemies"
+      children:
+        - label: "Mutants"
+          name: "mutant"
+        - label: "Giant nightmares"
+          name: "nightmare"
+        - label: "???"
+          collapsed: true
+          children:
+            - label: "Abominations"
+              name: "abomination"
