@@ -1,0 +1,5 @@
+﻿User-agent: *
+Disallow: /tiles/
+Allow: /
+
+Sitemap: https://fleaw.github.io/forspoken-map/sitemap.xml

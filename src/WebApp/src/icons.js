@@ -19,6 +19,7 @@ const defaultImageSourceOptions = {
 
 const defaultImageOptions = {
     className: '',
+    alt: '',
     width: 50,
     height: 50,
     src: defaultImageSourceOptions
@@ -85,6 +86,8 @@ export function createImage(imageName, options = {}) {
         image.setAttribute('x', options.xOffset);
     if(options.yOffset)
         image.setAttribute('y', options.yOffset);
+    
+    image.setAttribute('alt', options.alt ?? imageName);
     
     return image;
 }

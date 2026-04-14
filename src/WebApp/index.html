@@ -1,17 +1,28 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Forspoken Map</title>
+    <title>Forspoken Interactive Map – Locations, Collectibles & Modding Tools for Athia</title>
     <meta charset="utf-8">
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta name="mobile-web-app-capable" content="yes">
+    <meta name="description" content="Explore Athia with a complete interactive Forspoken map featuring all locations, collectibles, and modding tools." />
+
+    <meta property="og:title" content="Forspoken Interactive Map – Locations, Collectibles & Modding Tools for Athia">
+    <meta property="og:description" content="Explore Athia with a complete interactive Forspoken map featuring all locations, collectibles, and modding tools.">
+    <meta property="og:image" content="https://fleaw.github.io/forspoken-map/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="600">
+    <meta property="og:url" content="https://fleaw.github.io/forspoken-map">
+    <meta property="og:type" content="website">
+
+    <link rel="canonical" href="https://fleaw.github.io/forspoken-map">
 
     <!-- Favicon made using https://favicongenerator.io -->
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" sizes="any">
-    <link rel="icon" href="/favicon.ico">
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="icon" type="image/png" sizes="96x96" href="/forspoken-map/favicon-96x96.png">
+    <link rel="icon" href="/forspoken-map/favicon.svg" type="image/svg+xml" sizes="any">
+    <link rel="icon" href="/forspoken-map/favicon.ico">
+    <link rel="apple-touch-icon" href="/forspoken-map/apple-touch-icon.png">
+    <link rel="manifest" href="/forspoken-map/site.webmanifest">
     <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
     <meta name="theme-color" content="#0f172a" media="(prefers-color-scheme: dark)">
 
@@ -24,7 +35,7 @@
         const hash = window.location.hash;
 
         // If the URL ends with "/" (folder) and not "/index.html"
-        if (path.endsWith("/") && !path.endsWith("/index.html")) {
+        if (hash && path.endsWith("/") && !path.endsWith("/index.html")) {
           // Redirect to index.html while preserving the hash
           window.location.replace(path + "index.html" + hash);
         }
@@ -32,6 +43,7 @@
     </script>
   </head>
   <body>
+    <h1 class="visually-hidden">Forspoken Interactive Map – Locations, Collectibles & Modding Tools for Athia</h1>
     <div id="map"></div>
     <script type="module" src="src/main.js"></script>
   </body>

@@ -19,7 +19,7 @@ async function loadGeoJsonLayer(url) {
             const type = feature.properties.type;
             const rewards = feature.properties.rewards || [];
             const rewardOverlay = rewards.length ? rewards[0].kind : "";
-            const icon = createDivIcon(type, rewardOverlay);
+            const icon = createDivIcon(type, rewardOverlay, '',{ icon:{ alt: feature.properties.name }});
             const layer = getOrCreateOverlayLayer(type);
                 
             const marker = L.marker(latlng, {

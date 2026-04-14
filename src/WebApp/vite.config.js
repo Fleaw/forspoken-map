@@ -5,7 +5,7 @@ export default defineConfig(({mode}) => {
     const isDesktop = mode === "desktop";
     
     return {
-        base: "./",
+        base: '/forspoken-map/',
         define: {
             // This allows tree-shaking of Desktop.js in web builds
             __DESKTOP__: JSON.stringify(isDesktop)
