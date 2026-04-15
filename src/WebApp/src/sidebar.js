@@ -66,7 +66,7 @@ export function initSidebar(map, layerControl){
     
     document.body.insertBefore(div, document.body.firstChild);
     
-    L.control.sidepanel('right-panel', {
+    const sidePanel = L.control.sidepanel('right-panel', {
         panelPosition: 'right',
         hasTabs: true,
         tabsPosition: 'right',
@@ -79,4 +79,6 @@ export function initSidebar(map, layerControl){
     
     const layerTreeParent = $("#sidepanel-layers-content");
     layerTreeParent.append(container);
+
+    sidePanel.open();
 }
